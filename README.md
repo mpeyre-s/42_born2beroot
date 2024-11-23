@@ -1,2 +1,2 @@
 # 42_born2beroot
-You can do anything you want to do, virtual machine, this is your world
+Configuration d'une machine virtuelle sécurisée et administrée sous Linux.
